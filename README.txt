@@ -1,7 +1,5 @@
 # lab-5
-
 https://bta5-csula.github.io/lab-5/
-
 
 Story by HTML5 UP
 html5up.net | @ajlkn
@@ -41,3 +39,4 @@ Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
