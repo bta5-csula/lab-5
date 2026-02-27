@@ -1,4 +1,4 @@
-#lab-5#
+# lab-5
 https://bta5-csula.github.io/lab-5/
 
 
@@ -40,4 +40,5 @@ Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
 
